@@ -8,8 +8,8 @@
 - 📫 How to reach me:
   <ul>
   <li>Email: ramelabotshelo12@gmail.com</li>
-  <li><a href="https://www.linkedin.com/in/botshelo-ramela/">LinkedIn</a><li>
-  <li><a href="https://twitter.com/BotsheloRamela3">Twitter</a><li>
+  <li><a href="https://www.linkedin.com/in/botshelo-ramela/" target="_blank">LinkedIn</a></li>
+  <li><a href="https://twitter.com/BotsheloRamela3" target="_blank">Twitter</a></li>
   </ul>
 ###
 
