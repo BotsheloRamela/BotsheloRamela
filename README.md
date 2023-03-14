@@ -19,3 +19,6 @@
 
 ### Stats for Nerds
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BotsheloRamela)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BotsheloRamela&show_icons=true&theme=dark)
+
