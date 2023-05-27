@@ -24,6 +24,8 @@
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://storage.googleapis.com/cms-storage-bucket/4fd5520fe28ebf839174.svg" alt="flutter" width="40" height="40"/></a> 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-logomark.png" alt="firebase" width="30" height="40"/></a> 
 <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5969/5969294.png" alt="unity" width="40" height="40"/></a> 
+<a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.pn" alt="react" width="40" height="40"/></a> 
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" alt="next" width="40" height="40"/></a> 
 </p>
 
 
