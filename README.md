@@ -1,11 +1,11 @@
 ## 🖖🏾 Introduction
 
 - Hello, I'm Botshelo, a seasoned developer with over 5 years of experience crafting software solutions.
-- My expertise spans across backend systems, full-stack web applications, with a primary focus on Mobile Development.
+- My expertise spans across backend systems, and full-stack web applications, with a primary focus on Mobile Development.
 - I embarked on my coding journey at the age of 13, evolving from a self-taught developer to pursuing formal education in Software Development at WeThinkCode after freelancing and consulting for 3-4 years. Along the way, I've had the opportunity to work for a couple of companies.
 
 ### ✨ Highlights
-- 🌱 Currently honing my skills in Native Android Mobile Development.
+- 🌱 Currently honing my skills in **Native Android Mobile Development**.
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/botshelo-ramela/).
 - 📩 Open to collaboration opportunities - feel free to [contact me](mailto:ramelabotshelo12@gmail.com).
 
