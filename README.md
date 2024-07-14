@@ -1,13 +1,13 @@
-## 🖖🏾 Introduction
+## 👋🏾 Introduction
 
 - Hello, I'm Botshelo, a seasoned developer with over 5 years of experience crafting software solutions.
 - My expertise spans across backend systems, and full-stack web applications, with a primary focus on Mobile Development.
-- I embarked on my coding journey at the age of 13, evolving from a self-taught developer to pursuing formal education in Software Development at WeThinkCode after freelancing and consulting for 3-4 years. Along the way, I've had the opportunity to work for a couple of companies.
+- I embarked on my coding journey at the age of 13, evolving from a self-taught developer to pursuing formal education in Software Development at WeThinkCode after freelancing and consulting for 2-3 years. Along the way, I've had the opportunity to work for a couple of companies.
 
 ### ✨ Highlights
-- 🌱 Currently honing my skills in **Native Android Mobile Development**.
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/botshelo-ramela/).
-- 📩 Open to collaboration opportunities - feel free to [contact me](mailto:ramelabotshelo12@gmail.com).
+- 🌱 Currently honing my skills in **Android Mobile Development (Kotlin)**.
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/botshelo-ramela/) or [X / Twitter](https://x.com/BotsheloRamela3).
+- 📩 Open to collaboration opportunities - feel free to contact me: **ramelabotshelo12@gmail.com**.
 
 
 ## 👨🏾‍💻 My Tech Stack
@@ -33,8 +33,9 @@
 #### Hosting/SaaS/BaaS
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 #### CI
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
