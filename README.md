@@ -6,7 +6,7 @@
 
 ### ✨ Highlights
 - 🌱 Currently honing my skills in **Android Mobile Development (Kotlin)**.
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/botshelo-ramela/) or [X / Twitter](https://x.com/BotsheloRamela3).
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/botshelo-ramela/) or [X / Twitter](https://x.com/BotsheloRamela_).
 - 📩 Open to collaboration opportunities - feel free to contact me: **ramelabotshelo12@gmail.com**.
 
 
