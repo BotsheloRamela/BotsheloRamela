@@ -7,10 +7,10 @@ Software Engineer based in Johannesburg, South Africa. I build mobile-first prod
 ## Tech I reach for
 
 **Mobile**
-Flutter · Dart · Kotlin · Swift · Android Auto · CarPlay · Riverpod · Clean Architecture
+Flutter · Dart · Kotlin · Swift · Android Auto · CarPlay · Riverpod · BLoC · Clean Architecture
 
 **Web & Backend**
-React · Next.js · TypeScript · Node.js · Python · Java
+React · Next.js · TypeScript · Node.js · Python · Java · Nest.js
 
 **Cloud & DevOps**
 AWS · Firebase · Docker · GitHub Actions · Codemagic · Shorebird · Sentry
@@ -19,7 +19,7 @@ AWS · Firebase · Docker · GitHub Actions · Codemagic · Shorebird · Sentry
 
 ## A bit of background
 
-Started coding at 13, building games. Spent a few years freelancing before doing formal training at [WeThinkCode](https://wethinkcodeacademy.com). Self-taught at heart, but with a strong appreciation for structure, patterns, and writing code other people can maintain.
+Started coding at 13, building games. Spent a few years freelancing before doing formal training at [WeThinkCode](https://wethinkcode.co.za/). Self-taught at heart, but with a strong appreciation for structure, patterns, and writing code other people can maintain.
 
 ---
 
